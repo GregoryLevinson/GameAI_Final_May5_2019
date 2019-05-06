@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{16D6E48B-7CA1-0EC2-7665-B63983B7D0A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player_Behavior/PlayerDestroy_RED.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs" Line="44" Column="10" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs" Line="15" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameAI_Final_Version0.1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="FMOD" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Detect_PlayerEnterZone" expanded="True" />
+                <Node name="NPC_Behaviors" expanded="True">
+                  <Node name="BasicBehaviors" expanded="True">
+                    <Node name="NPCGray.cs" selected="True" />
+                  </Node>
+                  <Node name="Waypoint" expanded="True" />
+                </Node>
+                <Node name="Player_Behavior" expanded="True" />
+                <Node name="Trigger_AudioForZones" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5305af50-0278-4073-9601-3735e3134a65" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
